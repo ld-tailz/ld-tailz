@@ -1,4 +1,4 @@
-Hi, I'm Tran Long Do—but you can call me Gengar! 🇻🇳
+Hi, I'm Tran Long Do—but you can call me Tailz! 🇻🇳
 
 I'm a secondary student who's passionate about all things tech. By day, I focus on my studies, and by night, I dive deep into programming and penetration testing. I'm also a Linux enthusiast 🐧 and use it as my daily driver. So I can proudly say, "I USE LINUX BTW." Jokes aside, it's an amazing operating system, and you should definitely give it a try! 
 💻 Right-Hand Roles:
@@ -24,8 +24,6 @@ I'm a secondary student who's passionate about all things tech. By day, I focus 
     Sushi 🍣
 
     Open Source software
-
-    Balls jokes (jk)
 
     Linux and it's distribution (Debian and Arch specifically) 
 
